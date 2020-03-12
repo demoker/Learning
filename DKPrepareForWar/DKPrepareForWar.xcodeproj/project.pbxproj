@@ -7,6 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		38EC9112241A000500E0E887 /* 网络.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 38EC9111241A000500E0E887 /* 网络.rtf */; };
+		38EC9114241A034300E0E887 /* 分类和扩展.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 38EC9113241A034300E0E887 /* 分类和扩展.rtf */; };
+		38EC9116241A046C00E0E887 /* self和super.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 38EC9115241A046C00E0E887 /* self和super.rtf */; };
+		38EC9118241A04EB00E0E887 /* 图片.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 38EC9117241A04EB00E0E887 /* 图片.rtf */; };
+		38EC911A241A053D00E0E887 /* git和SVN.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 38EC9119241A053D00E0E887 /* git和SVN.rtf */; };
+		38EC911C241A05F400E0E887 /* 自动释放池.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 38EC911B241A05F400E0E887 /* 自动释放池.rtf */; };
+		38EC911E241A10B800E0E887 /* APP启动过程.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 38EC911D241A10B800E0E887 /* APP启动过程.rtf */; };
+		38EC9120241A117A00E0E887 /* 其他常见问题总结.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 38EC911F241A117A00E0E887 /* 其他常见问题总结.rtf */; };
 		58B834E324162F8E00FD65AC /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 58B834E224162F8E00FD65AC /* AppDelegate.m */; };
 		58B834E624162F8E00FD65AC /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 58B834E524162F8E00FD65AC /* SceneDelegate.m */; };
 		58B834E924162F8E00FD65AC /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 58B834E824162F8E00FD65AC /* ViewController.m */; };
@@ -28,12 +36,20 @@
 		58B8351D2417751900FD65AC /* 多线程.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 58B8351C2417751900FD65AC /* 多线程.rtf */; };
 		58B8351F24187D0C00FD65AC /* NSNotificationCenter.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 58B8351E24187D0C00FD65AC /* NSNotificationCenter.rtf */; };
 		58B8352124187D1B00FD65AC /* Block.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 58B8352024187D1B00FD65AC /* Block.rtf */; };
-		58B8352324187D2B00FD65AC /* KVO.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 58B8352224187D2B00FD65AC /* KVO.rtf */; };
+		58B8352324187D2B00FD65AC /* KVO和KVC.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 58B8352224187D2B00FD65AC /* KVO和KVC.rtf */; };
 		58B835252418DB2100FD65AC /* LLDB.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 58B835242418DB2100FD65AC /* LLDB.rtf */; };
 		58B835272418DB3200FD65AC /* 性能优化.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 58B835262418DB3200FD65AC /* 性能优化.rtf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		38EC9111241A000500E0E887 /* 网络.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; path = "网络.rtf"; sourceTree = "<group>"; };
+		38EC9113241A034300E0E887 /* 分类和扩展.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; path = "分类和扩展.rtf"; sourceTree = "<group>"; };
+		38EC9115241A046C00E0E887 /* self和super.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; path = "self和super.rtf"; sourceTree = "<group>"; };
+		38EC9117241A04EB00E0E887 /* 图片.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; path = "图片.rtf"; sourceTree = "<group>"; };
+		38EC9119241A053D00E0E887 /* git和SVN.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; path = "git和SVN.rtf"; sourceTree = "<group>"; };
+		38EC911B241A05F400E0E887 /* 自动释放池.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; path = "自动释放池.rtf"; sourceTree = "<group>"; };
+		38EC911D241A10B800E0E887 /* APP启动过程.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; path = "APP启动过程.rtf"; sourceTree = "<group>"; };
+		38EC911F241A117A00E0E887 /* 其他常见问题总结.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; path = "其他常见问题总结.rtf"; sourceTree = "<group>"; };
 		58B834DE24162F8E00FD65AC /* DKPrepareForWar.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DKPrepareForWar.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		58B834E124162F8E00FD65AC /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		58B834E224162F8E00FD65AC /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -67,7 +83,7 @@
 		58B8351C2417751900FD65AC /* 多线程.rtf */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; path = "多线程.rtf"; sourceTree = "<group>"; };
 		58B8351E24187D0C00FD65AC /* NSNotificationCenter.rtf */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; path = NSNotificationCenter.rtf; sourceTree = "<group>"; };
 		58B8352024187D1B00FD65AC /* Block.rtf */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; path = Block.rtf; sourceTree = "<group>"; };
-		58B8352224187D2B00FD65AC /* KVO.rtf */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; path = KVO.rtf; sourceTree = "<group>"; };
+		58B8352224187D2B00FD65AC /* KVO和KVC.rtf */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; path = "KVO和KVC.rtf"; sourceTree = "<group>"; };
 		58B835242418DB2100FD65AC /* LLDB.rtf */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; path = LLDB.rtf; sourceTree = "<group>"; };
 		58B835262418DB3200FD65AC /* 性能优化.rtf */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; path = "性能优化.rtf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -139,9 +155,17 @@
 				58B8351C2417751900FD65AC /* 多线程.rtf */,
 				58B8351E24187D0C00FD65AC /* NSNotificationCenter.rtf */,
 				58B8352024187D1B00FD65AC /* Block.rtf */,
-				58B8352224187D2B00FD65AC /* KVO.rtf */,
+				58B8352224187D2B00FD65AC /* KVO和KVC.rtf */,
+				38EC9115241A046C00E0E887 /* self和super.rtf */,
+				38EC9119241A053D00E0E887 /* git和SVN.rtf */,
+				38EC9113241A034300E0E887 /* 分类和扩展.rtf */,
 				58B835242418DB2100FD65AC /* LLDB.rtf */,
+				38EC9111241A000500E0E887 /* 网络.rtf */,
 				58B835262418DB3200FD65AC /* 性能优化.rtf */,
+				38EC911B241A05F400E0E887 /* 自动释放池.rtf */,
+				38EC9117241A04EB00E0E887 /* 图片.rtf */,
+				38EC911F241A117A00E0E887 /* 其他常见问题总结.rtf */,
+				38EC911D241A10B800E0E887 /* APP启动过程.rtf */,
 			);
 			path = "其它问题总结";
 			sourceTree = "<group>";
@@ -222,19 +246,27 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				38EC9114241A034300E0E887 /* 分类和扩展.rtf in Resources */,
 				58B834F124162F9300FD65AC /* LaunchScreen.storyboard in Resources */,
+				38EC9112241A000500E0E887 /* 网络.rtf in Resources */,
+				38EC9120241A117A00E0E887 /* 其他常见问题总结.rtf in Resources */,
 				58B8351F24187D0C00FD65AC /* NSNotificationCenter.rtf in Resources */,
 				58B8350224176A2D00FD65AC /* 关于load方法总结.rtf in Resources */,
 				58B834FB2416354100FD65AC /* home.plist in Resources */,
 				58B835172417703800FD65AC /* 内存管理.rtf in Resources */,
 				58B834EE24162F9300FD65AC /* Assets.xcassets in Resources */,
-				58B8352324187D2B00FD65AC /* KVO.rtf in Resources */,
+				58B8352324187D2B00FD65AC /* KVO和KVC.rtf in Resources */,
 				58B835272418DB3200FD65AC /* 性能优化.rtf in Resources */,
 				58B8351D2417751900FD65AC /* 多线程.rtf in Resources */,
 				58B835252418DB2100FD65AC /* LLDB.rtf in Resources */,
+				38EC911A241A053D00E0E887 /* git和SVN.rtf in Resources */,
 				58B83519241774E600FD65AC /* runtime.rtf in Resources */,
+				38EC911C241A05F400E0E887 /* 自动释放池.rtf in Resources */,
+				38EC9116241A046C00E0E887 /* self和super.rtf in Resources */,
 				58B8352124187D1B00FD65AC /* Block.rtf in Resources */,
+				38EC9118241A04EB00E0E887 /* 图片.rtf in Resources */,
 				58B8351B241774F700FD65AC /* runloop.rtf in Resources */,
+				38EC911E241A10B800E0E887 /* APP启动过程.rtf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
